@@ -1,0 +1,82 @@
+#fotoeu{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+}
+header{
+    text-align: center;
+    background-color: rgb(194, 224, 236);
+    border-radius: 10px;
+}
+img{
+
+    width: 100px; 
+    height:100px;
+    display: flex;
+    justify-content: center;
+}
+#realizados{
+  display: inline;
+  justify-content: space-around;
+}
+div{
+    width: 100px;
+    height: 100px;
+    align-items: center;
+}
+main{
+    background-color: rgb(224, 229, 231);
+    border-radius: 10px;
+
+ 
+}
+aside {
+    background-color: #e0f2f1; 
+    padding: 20px; 
+    margin: 20px; 
+    border-left: 4px solid rgb(148, 228, 241); 
+    border-radius: 10px;}
+footer{
+    background-color: lavender;
+    border-radius: 10px;
+}
+#projetinho{
+    width:100px;
+    height: 100px;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.galeria {
+    display: flex; 
+    justify-content: center; 
+    flex-wrap: wrap; 
+}
+
+.galeria {
+    margin: 10px;
+    text-align: center; 
+}
+
+.galeria img {
+    width: 200px; 
+    border-radius: 8px; 
+}
+form{
+    background-color: lavender;
+}
+body{
+    background-color:  rgb(194, 224, 236)
+}
+#redes{
+    width: 40px ;
+    height:40px ;
+    border-radius: 10px;
+}
